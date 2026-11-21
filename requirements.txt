@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+asyncmy
+cryptography
+greenlet
+alembic
+pydantic[email]
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
+bcrypt==4.0.1
+pytest
+pytest-asyncio
+httpx
